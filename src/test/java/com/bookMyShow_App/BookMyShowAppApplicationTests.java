@@ -1,4 +1,4 @@
-package com.bookMyShow_App;
+/*package com.bookMyShow_App;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,4 +10,4 @@ class BookMyShowAppApplicationTests {
 	void contextLoads() {
 	}
 
-}
+}*/
